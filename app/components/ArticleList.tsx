@@ -1,4 +1,4 @@
-import { VStack } from "app/common/components/index.tsx";
+import { VStack } from "./common/components";
 import ArticleCard from "./ArticleCard";
 import { Article } from "./types";
 

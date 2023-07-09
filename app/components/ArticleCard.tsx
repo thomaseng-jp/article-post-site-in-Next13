@@ -5,7 +5,7 @@ import {
   CardFooter,
   Heading,
   Text
-} from "app/common/components/index.tsx";
+} from "./common/components";
 import NextLink from "next/link";
 import { Article } from "./types";
 
